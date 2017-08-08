@@ -4,12 +4,11 @@
 
 # Name of your site (displayed in the header)
 
-name: Your Username
+name: Help CTAB Save Internet Freedom!
 
 
 # Short bio or description (displayed in the header)
 description: Programmer From Somewhere On Earth
-
 
 #
 # Flags below are optional
@@ -18,12 +17,12 @@ description: Programmer From Somewhere On Earth
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: agarwal.akshay.akshay8@gmail.com
+  email:
   facebook:
   flickr:
-  github: AkshayAgarwal007
+  github:
   instagram:
-  linkedin: akshay-agarwal-782018a4
+  linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
@@ -47,7 +46,7 @@ url:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/Jekyll-Mono"
+baseurl: "/restore-internet-freedom"
 
 #
 # !! You don't need to change any of the configuration flags below !!

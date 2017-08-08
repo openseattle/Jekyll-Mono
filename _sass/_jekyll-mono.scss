@@ -84,6 +84,22 @@ button.button-primary:focus {
     border-color: $mono-color; 
 }
 
+a.action-button {
+  display: block;
+  height: 1.4em;
+  line-height: 1.4em;
+  font-size: 3em;
+  color: #FFF;
+  background-color: $mono-color;
+  border-color: $mono-color; 
+  width: 580px;
+}
+a.action-button:hover,
+a.action-button:focus {
+  background-color: #FFF;
+  color: $mono-color;
+}
+
 /*
     *Header
 */
